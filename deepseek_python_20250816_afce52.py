@@ -18,9 +18,9 @@ from telethon.errors import SessionPasswordNeededError
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 # إعدادات البوت
-BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
-API_ID = os.getenv("TELEGRAM_API_ID")
-API_HASH = os.getenv("TELEGRAM_API_HASH")
+BOT_TOKEN = os.getenv("7966976239:AAFEtPbUEIqMVaLN20HH49zIMVSh4jKZJA4")
+API_ID = os.getenv("23656977")
+API_HASH = os.getenv("49d3f43531a92b3f5bc403766313ca1e")
 SESSION_DIR = "sessions"
 LOG_DIR = "logs"
 ACCOUNTS_FILE = "accounts.json"
